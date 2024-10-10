@@ -1,4 +1,4 @@
-Here's a combined version of both sections:
+
 
 # To-Do List Application (MEAN Stack)
 
